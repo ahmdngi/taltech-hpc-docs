@@ -1,3 +1,15 @@
+---
+name: taltech-hpc-docs
+description: "TalTech HPC Centre documentation reference — cluster, cloud, LUMI supercomputer. Every answer MUST cite the source doc page(s) the user can verify against."
+version: 1.0.0
+author: Hermes Agent (from docs.hpc.taltech.ee audit)
+platforms: [linux, macos, windows]
+metadata:
+  hermes:
+    tags: [taltech, hpc, cluster, slurm, lumi, cloud, ssh, billing, singularity]
+    related_skills: []
+---
+
 # TalTech HPC Documentation Reference
 
 Authoritative source: <https://docs.hpc.taltech.ee/>
