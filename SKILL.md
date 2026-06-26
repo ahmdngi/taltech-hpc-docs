@@ -19,7 +19,7 @@ Source repo: <https://github.com/TalTech-HPC-Centre/user-guides-source>
 
 After every answer, append the specific source page(s) the information came from in this format:
 
-> **Source:** [Page Title](https://docs.hpc.taltech.ee/<page>.html)
+> **Source:** [Page Title](https://docs.hpc.taltech.ee/quickstart.html)
 
 If info spans multiple pages, list all of them. Do not answer from this skill alone — ALWAYS cite the source page so the user can verify and explore deeper.
 
